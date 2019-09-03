@@ -1,0 +1,13 @@
+*(*(a+0)+0)
+*(*(a+2)+1)
+*(*(a+5)+1)
+*(*(a+1)+10)
+*(*(a+1)+10)
+*(*(a+5)+3)
+*(*(a+9)+19)
+
+matrix[0][0] = *(*(matrix)) valida
+matrix[i][j] = *((*(matrix)) + (i* COLS + j)) 
+matrix[i][j] = *(*(matriz+i)+j) valida
+matrix[i][j] = *(matrix[i] +j) valida
+matrix[i][j] = (*(matrix+i))[j]
