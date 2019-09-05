@@ -1,0 +1,20 @@
+#1---------------------------------------------
+
+s=initialize
+
+if(empty=false) 
+  do
+    contador=0
+    contador++
+    pop(s)	
+  while(contador/=2)
+else
+  error	
+
+#3---------------------------------------------
+
+s=initialize
+
+do
+  pop(s)
+while(empty=falso)
