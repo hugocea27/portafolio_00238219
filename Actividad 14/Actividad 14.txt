@@ -1,0 +1,38 @@
+Árbol #1
+	-Nodos:A,B,C,D,E,F,G,H,I
+	-Niveles de los nodos:
+	 Nivel 0:A
+	 Nivel 1:B,C
+	 Nivel 2:D,E,F
+	 Nivel 3:G,H,I
+	-Profundidad del árbol:3
+	-Orden:2
+	-Peso:9
+	-Sub-árbol cualquiera:
+	 Sub-árbol con raíz en C
+	-Lleno o estricto:No
+	-Perfecto o completo:No
+	-Recorridos:
+	 In-orden:D,G,B,A,H,E,I,C,F
+	 Pre-orden:A,B,D,G,C,E,H,I,F
+	 Post-orden:G,D,B,H,I,E,F,C,A
+
+Árbol #2
+	-Nodos:A,B,C,D,E,F,G,H,I,J,K,L
+	-Niveles de los nodo:
+	 Nivel 0:A
+	 Nivel 1:B
+	 Nivel 2:C,D
+	 Nivel 3:E,F,G,H
+	 Nivel 4:I,J,K,L
+	-Profundidad del árbol:4
+	-Orden:2
+	-Peso:12
+	-Sub-árbol cualquiera:
+	 Sub-árbol con raíz en B
+	-Lleno o estricto:No
+	-Perfecto o completo:No
+	-Recorrido:
+	 In-orden:E,I,C,F,J,B,G,D,K,A,H,L
+	 Pre-orden:A,B,C,E,I,F,J,D,G,H,K,L
+	 Post-orden:I,E,J,F,C,G,K,L,H,D,B,A
